@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Towqer of hanoi</title>
+</head>
+<body>
+  <script>
+    // javascript recursive function to
+    // solve tower of hanoi puzzle
+    function towerOfHanoi(n, from_rod, to_rod, aux_rod)
+    {
+        if (n == 0)
+        {
+          return;
+        }
+        towerOfHanoi(n - 1, from_rod, aux_rod, to_rod);
+        document.write("Move disk " + n + " from rod " + from_rod +
+        " to rod " + to_rod+"<br/>");
+        towerOfHanoi(n - 1, aux_rod, to_rod, from_rod);
+      }
+
+      // Driver code
+      const N= parseInt(prompt('Enter the number: '));
+
+      // A, B and C are names of rods
+      towerOfHanoi(N, 'A', 'C', 'B');
+
+    </script>
+
+</body>
+</html>
