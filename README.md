@@ -10,4 +10,4 @@ Push your URL into the current readme file mentioning your name and e-portfolio 
 
 
 1. RA2112704010022 - https://notyashu.github.io
-2. RA2112704010017 - vd5323.github.io 
+2. RA2112704010017 - https://vd5323.github.io/
