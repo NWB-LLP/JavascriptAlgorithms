@@ -1,15 +1,17 @@
-# JavascriptAlgorithms
+# Closing Day Task
 
-## General Instruction
+[To-do List](https://docs.google.com/spreadsheets/d/1y_NB2svxch4gL_CsQJyQWBRIhlWa7UjuKF9ueeS1XaY/edit?usp=sharing)
 
-1. Implement and push atleast one algorithm (in Javascript) and it's output screenshot
-2. Name your *files and folder* as the algorithm & your registration number(Ex: BinarySearch_RAxxxxxxxxxxxxx)
-
-Or
 
 # Personal Webpage
 
-Push a readme file mentioning your name and e-portfolio URL (Ex: RAxxxxxxxxxxxxx_URL) 
+Push your URL into the current readme file mentioning your name and e-portfolio URL (Ex: RAxxxxxxxxxxxxx - URL) 
 
 
-RA2011050010098 URL : https://20adarsh22.github.io/
+
+
+
+1. RA2112704010022 - https://notyashu.github.io
+2. RA2112704010008 - https://sa4475.github.io/
+3. RA2011050010098  https://20adarsh22.github.io/
+
