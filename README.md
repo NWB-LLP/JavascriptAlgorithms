@@ -5,10 +5,6 @@
 
 # Personal Webpage
 
-Push your URL into the current readme file mentioning your name and e-portfolio URL (Ex: RAxxxxxxxxxxxxx - URL) 
-
-
-
 1.	RA2112704010022 - https://notyashu.github.io/
 2.	RA2111027010103 - https://drohith26.github.io/portfolio/
 3.	RA2112704010008 - https://sa4475.github.io/
@@ -23,4 +19,6 @@ Push your URL into the current readme file mentioning your name and e-portfolio 
 12.	RA2112704010010 - https://boomchilx.github.io/
 13.	RA2011050010035 - https://nileshgarg13.github.io/
 14.	RA2011027010174 - https://sreesh2804.github.io/
+15.	RA2111056010035 - https://sottamaich23.github.io/
+16.	RA2011050010073 URL: https://devansh-mehra.github.io/
 
