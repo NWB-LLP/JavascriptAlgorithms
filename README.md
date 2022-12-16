@@ -3,7 +3,7 @@
 [To-do List](https://docs.google.com/spreadsheets/d/1y_NB2svxch4gL_CsQJyQWBRIhlWa7UjuKF9ueeS1XaY/edit?usp=sharing)
 *Closed*
 
-# Personal Webpage
+# Personal Webpage - Updated
 
 
 1.	RA2112704010022 - https://notyashu.github.io/
